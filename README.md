@@ -8,7 +8,8 @@ Repozytorium z materiałami na zajęcia. Tu trafiają instrukcje, wzory i zadani
 |---|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | 01 | [Git i GitHub - wstęp](01_Git_i_GitHub_wstep.pdf)                  | instalacja, konfiguracja, pierwsze repo, commity, README, .gitignore, usuwanie poświadczeń |
 | 02 | [Agenci kodujący](02_Agenci_kodujacy_Claude_Code_Codex_Gemini.pdf) | Claude Code, Codex CLI, Gemini CLI - instalacja, użycie, zasady pracy z LLM                |
-
+| 03 | [MVC i MTV](03_MVC_i_MTV.pdf)                                      | trzy warstwy, przepływ żądania, MTV w Django, gdzie to jest we Flasku / ASP.NET / React |
+| 04 | [Flask – start](04_Flask_start_Hello_World.pdf)                    | venv, pip, Hello World, trasy, HTTP w zakładce Network |
 ## Zasady na zajęciach
 
 1. Każdy projekt -> osobne repozytorium na Twoim GitHubie, publiczne.
