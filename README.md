@@ -12,6 +12,7 @@ Repozytorium z materiałami na zajęcia. Tu trafiają instrukcje, wzory i zadani
 | 04 | [Flask – start](04_Flask_start_Hello_World.pdf)                    | venv, pip, Hello World, trasy, HTTP w zakładce Network |
 | 05 | [Flask – dynamiczne ścieżki](05_Flask_dynamiczne_sciezki.pdf)      | `<imie>`, `<int:id>`, query string, url_for, redirect, abort |
 | 06 | [Flask – HTML i szablony](06_Flask_HTML_i_szablony.pdf)            | Jinja2: zmienne, if, for, extends/block, CSS, formularze GET/POST |
+| 07 | [Flask – modele i baza](07_Flask_modele_i_baza_danych.pdf)         | SQLAlchemy, SQLite, CRUD, models.py, pełne MVC |
 ## Zasady na zajęciach
 
 1. Każdy projekt -> osobne repozytorium na Twoim GitHubie, publiczne.
