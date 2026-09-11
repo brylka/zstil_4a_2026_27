@@ -4,15 +4,17 @@ Repozytorium z materiałami na zajęcia. Tu trafiają instrukcje, wzory i zadani
 
 ## Materiały
 
-| Nr | Plik                                                               | Czego dotyczy                                                                              |
-|---|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| 01 | [Git i GitHub - wstęp](01_Git_i_GitHub_wstep.pdf)                  | instalacja, konfiguracja, pierwsze repo, commity, README, .gitignore, usuwanie poświadczeń |
-| 02 | [Agenci kodujący](02_Agenci_kodujacy_Claude_Code_Codex_Gemini.pdf) | Claude Code, Codex CLI, Gemini CLI - instalacja, użycie, zasady pracy z LLM                |
-| 03 | [MVC i MTV](03_MVC_i_MTV.pdf)                                      | trzy warstwy, przepływ żądania, MTV w Django, gdzie to jest we Flasku / ASP.NET / React |
-| 04 | [Flask – start](04_Flask_start_Hello_World.pdf)                    | venv, pip, Hello World, trasy, HTTP w zakładce Network |
-| 05 | [Flask – dynamiczne ścieżki](05_Flask_dynamiczne_sciezki.pdf)      | `<imie>`, `<int:id>`, query string, url_for, redirect, abort |
-| 06 | [Flask – HTML i szablony](06_Flask_HTML_i_szablony.pdf)            | Jinja2: zmienne, if, for, extends/block, CSS, formularze GET/POST |
-| 07 | [Flask – modele i baza](07_Flask_modele_i_baza_danych.pdf)         | SQLAlchemy, SQLite, CRUD, models.py, pełne MVC |
+| Nr | Plik                                                                   | Czego dotyczy                                                                              |
+|---|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| 01 | [Git i GitHub - wstęp](01_Git_i_GitHub_wstep.pdf)                      | instalacja, konfiguracja, pierwsze repo, commity, README, .gitignore, usuwanie poświadczeń |
+| 02 | [Agenci kodujący](02_Agenci_kodujacy_Claude_Code_Codex_Gemini.pdf)     | Claude Code, Codex CLI, Gemini CLI - instalacja, użycie, zasady pracy z LLM                |
+| 03 | [MVC i MTV](03_MVC_i_MTV.pdf)                                          | trzy warstwy, przepływ żądania, MTV w Django, gdzie to jest we Flasku / ASP.NET / React |
+| 04 | [Flask – start](04_Flask_start_Hello_World.pdf)                        | venv, pip, Hello World, trasy, HTTP w zakładce Network |
+| 05 | [Flask – dynamiczne ścieżki](05_Flask_dynamiczne_sciezki.pdf)          | `<imie>`, `<int:id>`, query string, url_for, redirect, abort |
+| 06 | [Flask – HTML i szablony](06_Flask_HTML_i_szablony.pdf)                | Jinja2: zmienne, if, for, extends/block, CSS, formularze GET/POST |
+| 07 | [Flask – modele i baza](07_Flask_modele_i_baza_danych.pdf)             | SQLAlchemy, SQLite, CRUD, models.py, pełne MVC |
+| 08 | [Porządki po Flasku](08_Porzadki_standardy_HTTP_CRUD_dokumentacja.pdf) | angielski w kodzie, PEP 8 + ruff, kody HTTP, CRUD i metody, docstringi, Conventional Commits, Definition of Done |
+| 09 | [Markdown](09_Markdown_podstawy.pdf)                                   | składnia .md, szablon README, zasady – od tej pory materiały w .md |
 ## Zasady na zajęciach
 
 1. Każdy projekt -> osobne repozytorium na Twoim GitHubie, publiczne.
