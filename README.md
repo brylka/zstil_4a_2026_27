@@ -15,6 +15,12 @@ Repozytorium z materiałami na zajęcia. Tu trafiają instrukcje, wzory i zadani
 | 07 | [Flask – modele i baza](07_Flask_modele_i_baza_danych.pdf)             | SQLAlchemy, SQLite, CRUD, models.py, pełne MVC |
 | 08 | [Porządki po Flasku](08_Porzadki_standardy_HTTP_CRUD_dokumentacja.pdf) | angielski w kodzie, PEP 8 + ruff, kody HTTP, CRUD i metody, docstringi, Conventional Commits, Definition of Done |
 | 09 | [Markdown](09_Markdown_podstawy.pdf)                                   | składnia .md, szablon README, zasady – od tej pory materiały w .md |
+| 10 | [Django – start](10_Django_start.md) | instalacja, projekt i aplikacja, dwa `urls.py`, Hello World, konwertery, `request.GET`, `reverse`, `Http404` |
+
+## Jak używać LLM
+ 
+[PROMPTS.md](PROMPTS.md) – jak pytać, żeby się nauczyć, a jak pytać, żeby dostać jedynkę. Przeczytaj przed następnym „zrób zadanie”.
+
 ## Zasady na zajęciach
 
 1. Każdy projekt -> osobne repozytorium na Twoim GitHubie, publiczne.
