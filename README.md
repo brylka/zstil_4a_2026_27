@@ -17,6 +17,7 @@ Repozytorium z materiałami na zajęcia. Tu trafiają instrukcje, wzory i zadani
 | 09 | [Markdown](09_Markdown_podstawy.pdf)                                   | składnia .md, szablon README, zasady – od tej pory materiały w .md |
 | 10 | [Django – start](10_Django_start.md)                                   | instalacja, projekt i aplikacja, dwa `urls.py`, Hello World, konwertery, `request.GET`, `reverse`, `Http404` |
 | 11 | [Django – szablony i formularze](11_Django_szablony_i_formularze.md)   | DTL vs Jinja2, `base.html`, `{% static %}`, `{% url %}`, `forms.Form`, `is_valid`/`cleaned_data`, `clean_<pole>`/`clean`, CSRF, formularz GET |
+| 12 | [Django – modele, migracje, admin](12_Django_modele_migracje_admin.md) | `models.Model`, `makemigrations`/`migrate`, ORM i lookupy, `ForeignKey`, panel admina, `ModelForm`, edycja i usuwanie, pełne MTV |
 
 ## Jak używać LLM
  
