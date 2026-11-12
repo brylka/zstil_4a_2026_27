@@ -19,6 +19,13 @@ Repozytorium z materiałami na zajęcia. Tu trafiają instrukcje, wzory i zadani
 | 11 | [Django – szablony i formularze](11_Django_szablony_i_formularze.md)   | DTL vs Jinja2, `base.html`, `{% static %}`, `{% url %}`, `forms.Form`, `is_valid`/`cleaned_data`, `clean_<pole>`/`clean`, CSRF, formularz GET |
 | 12 | [Django – modele, migracje, admin](12_Django_modele_migracje_admin.md) | `models.Model`, `makemigrations`/`migrate`, ORM i lookupy, `ForeignKey`, panel admina, `ModelForm`, edycja i usuwanie, pełne MTV |
 
+
+## Ścieżka mobilna (równolegle, Java)
+ 
+| Nr | Plik | Czego dotyczy |
+|---|---|---|
+| M01 | [Android – start](M01_Android_start_Java.md) | Android Studio, Empty Views Activity, struktura projektu, Activity + layout, emulator i telefon, Logcat |
+
 ## Jak używać LLM
  
 [PROMPTS.md](PROMPTS.md) – jak pytać, żeby się nauczyć, a jak pytać, żeby dostać jedynkę. Przeczytaj przed następnym „zrób zadanie”.
