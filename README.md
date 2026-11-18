@@ -25,6 +25,7 @@ Repozytorium z materiałami na zajęcia. Tu trafiają instrukcje, wzory i zadani
 | Nr | Plik | Czego dotyczy |
 |---|---|---|
 | M01 | [Android – start](M01_Android_start_Java.md) | Android Studio, Empty Views Activity, struktura projektu, Activity + layout, emulator i telefon, Logcat |
+| M02 | [Android – widgety, zdarzenia, cykl życia](M02_Android_widgety_zdarzenia_cykl_zycia.md) | LinearLayout, EditText i inne widgety, listenery, walidacja, cykl życia Activity, `onSaveInstanceState`, kalkulator BMI |
 
 ## Jak używać LLM
  
